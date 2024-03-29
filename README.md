@@ -3,7 +3,8 @@ Imersão Python: Do Excel à Análise de Dados Aula 03: Manipulação de Dados e
 
 visualização tabela excel
 
-![image](https://github.com/leandroyoo/imersaoPythonExcel03/assets/94478634/63343369-2347-4f1a-9d29-6ff9c6dff7f6)
+![image](https://github.com/leandroyoo/imersaoPythonExcel03/assets/94478634/026b558f-4440-48c4-bec5-a81d5c881347)
+
 
 
 
